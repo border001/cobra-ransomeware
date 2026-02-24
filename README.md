@@ -2,7 +2,7 @@ this is the cobra ransomeware that i made for MY projects!
 but you can download it if you want!
 
 its a high risk ransomeware!
-the creator is not responsible when you download this randsomeware!
+the creator is not responsible for downloading this randsomeware!
 it can realy damage your computer so download it under your OWN risk!
 
 the cobra randsomeware is a project to damage a computer its the V1 version so it comes in more updates and more!
