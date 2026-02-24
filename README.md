@@ -1,4 +1,4 @@
-this is the cobra ransomeware that i made this for my projects 
+this is the cobra ransomeware that i made for MY projects!
 but you can download it if you want!
 
 its a high risk ransomeware!
