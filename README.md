@@ -9,7 +9,8 @@ the cobra randsomeware is a project to study randsomeware and im make these for 
 
 i requment using a virtualbox for this randsomeware so your computer still works after this!
 
-damage: LOW
+
+damage level: LOW
 
 version: V1
 
