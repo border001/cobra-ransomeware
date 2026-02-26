@@ -26,4 +26,10 @@ That goes on until the computer crashes!
 damage level: MEDIUM
 
 --cobra
----------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------- 
+shutdown prompt.exe
+is an script that you can shutdown other computer or restarting the computers
+
+damage level: LOW
+
+--cobra
