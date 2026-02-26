@@ -10,8 +10,10 @@ the cobra ransomeware is a project to study ransomeware and im make these for fu
 i requment using a virtualbox for this ransomeware so your computer still works after this!
 
 
-damage level: LOW
+damage level: HIGH
 
-version: V1
+it deleats the system 32!
+
+version: V2
 
 --cobra
