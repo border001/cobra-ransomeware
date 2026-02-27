@@ -1,3 +1,5 @@
+I AM NOT RESPONSIBLE FOR ANY DAMAGES 
+---------------------------------------------------------------------------------------------------------------------------------------
 this is the cobra ransomeware that i made for MY projects!
 but you can download it if you want!
 
