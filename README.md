@@ -33,3 +33,11 @@ is an script that you can shutdown other computer or restarting the computers
 damage level: LOW
 
 --cobra
+----------------------------------------------------------------------------------------------------------------------------------------------
+Deathwordle.exe
+is an script that you must do a wordle and when you failed a 
+bunch of times it dealets your system32
+
+damage level:HIGH
+
+--cobra
