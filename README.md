@@ -12,7 +12,7 @@ i requment using a virtualbox for this ransomeware so your computer still works 
 
 damage level: HIGH
 
-it shuld deleat the system 32! when i made it correct
+it shuld deleat the whole system! when i made it correct
 
 version: V2
 
