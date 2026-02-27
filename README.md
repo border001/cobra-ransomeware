@@ -12,7 +12,7 @@ the cobra ransomeware is a project to study ransomeware and im make these for fu
 i requment using a virtualbox for this ransomeware so your computer still works after this!
 
 
-damage level: HIGH
+damage level:HIGH
 
 it shuld deleat the whole system! when i made it correct
 
@@ -25,14 +25,14 @@ absturtz.exe
 is an script that opends the cmd over and over again.
 That goes on until the computer crashes!
 
-damage level: MEDIUM
+damage level:MEDIUM
 
 --cobra
 --------------------------------------------------------------------------------------------------------------------------------------------- 
 shutdown prompt.exe
 is an script that you can shutdown other computer or restarting the computers
 
-damage level: LOW
+damage level:LOW
 
 --cobra
 ----------------------------------------------------------------------------------------------------------------------------------------------
