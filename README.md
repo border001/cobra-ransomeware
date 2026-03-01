@@ -53,3 +53,14 @@ damage level:MEDIUM
 --cobra
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+GTI virus.cc
+is an virus in c++ that is in a GTI style it 
+spawns a bunch of icons on your whole screen
+
+it shoult meltdown the cpu when i made it correct 
+
+damage level:MEDIUM
+
+--cobra
+
+----------------------------------------------------------------------------------------------------------------------------------------------
