@@ -21,7 +21,7 @@ version: V2
 --cobra
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-absturtz.exe
+absturtz.exe |
 is an script that opends the cmd over and over again.
 That goes on until the computer crashes!
 
@@ -29,14 +29,14 @@ damage level:MEDIUM
 
 --cobra
 --------------------------------------------------------------------------------------------------------------------------------------------- 
-shutdown prompt.exe
+shutdown prompt.exe |
 is an script that you can shutdown other computer or restarting the computers
 
 damage level:LOW
 
 --cobra
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Deathwordle.exe
+Deathwordle.exe |
 is an script that you must do a wordle and when you failed a 
 bunch of times it dealets your system32
 
@@ -45,7 +45,7 @@ damage level:HIGH
 --cobra
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-CPU burner.exe 
+CPU burner.exe |
 is an script that stresses the cpu to a meltdown!
 
 damage level:MEDIUM
@@ -53,7 +53,7 @@ damage level:MEDIUM
 --cobra
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-GTI virus.cc
+GTI virus.cc |
 is an virus in c++ that is in a GTI style it 
 spawns a bunch of icons on your whole screen
 
